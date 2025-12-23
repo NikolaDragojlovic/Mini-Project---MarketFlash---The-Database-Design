@@ -57,6 +57,13 @@ Key Relationships 1:1 1:M M:M
 
 -Performance: Each campaign is linked to exactly one set of Metrics and one or more Advertisements.
 
+## Business Impact
+- Replaced spreadsheet-based campaign tracking with a scalable relational database
+- Enabled centralized management of 1,000+ campaigns across 78 clients
+- Improved data consistency and integrity through normalization and constraints
+- Provided clear visibility into campaign ROI, engagement, and performance metrics
+- Supported faster, data-driven decision-making through interactive Tableau dashboards
+
 ## How to Use
 1. Clone repo
 2. Open `Google sheet` sampledata 
