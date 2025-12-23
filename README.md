@@ -29,7 +29,6 @@ to provide clear visibility into business performance and support data-driven de
 | [SQL Scripts](https://docs.google.com/document/d/19gRYaSpGWyORcMuhAur8AVUWj3xOy0kUIu_Chl7Uhxo/edit?usp=sharing) | Database creation + constraints |
 | [SQL Queries](https://drive.google.com/file/d/1nvQXk3qbrV9UWXZBGnXUvCOnmqmnHAg7/view?usp=sharing) | Sample queries |
 | [Tableau](https://public.tableau.com/views/Market_flashProjectDashboard/MarketFlashProjectDashboard?:language=en-US&publish=yes&sid=&redirect=auth&display_count=n&origin=viz_share_link) | Interactive ROI & performance dashboard |
- 
 | [Tableau Screenshot](https://drive.google.com/file/d/1dXb6eTFu7SBgDbFLG7VzZ0jRTe2OXKO3/view?usp=sharing) | Static preview |
 | [Market_flash Project Insights and Recommandations](https://docs.google.com/document/d/1UXq0UOtdQDqQgU4zxvLO9MpemdqCMgrOnEuHalOZOZA/edit?usp=sharing) | Conclusion |
 
@@ -65,11 +64,11 @@ Key Relationships 1:1 1:M M:M
 - Supported faster, data-driven decision-making through interactive Tableau dashboards
 
 ## How to Use
-1. Clone repo
-2. Open `Google sheet` sampledata 
-3. Run `SQL Scripts` in Beekeeper Studio
-4. Open `Tableau dashboard link` for visuals
-5. Open `Market_flash Project Insights and Recommandations` for conclusion
+1. Clone this repository
+2. Open the **Google Sheet** to review cleaned source data
+3. Run the **SQL Scripts** in Beekeeper Studio (SQLite)
+4. Explore the **Tableau Dashboard** via the provided link
+5. Review **Insights & Recommendations** for business conclusions
 
 ## Author
 Nikola Dragojlović  
