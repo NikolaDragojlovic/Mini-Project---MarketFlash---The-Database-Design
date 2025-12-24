@@ -1,4 +1,4 @@
-# Mini-Project---MarketFlash---The-Database-Design
+# MarketFlash Database Design  Mini-Project
 Marketing company database + Tableau dashboard
 
 ## Overview
