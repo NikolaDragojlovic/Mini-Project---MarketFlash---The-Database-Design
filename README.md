@@ -73,4 +73,4 @@ Key Relationships 1:1 1:M M:M
 
 ## Author
 Nikola Dragojlović  
-Junior Data Analyst (Masterschool DA & BI  April Cohort 2025)
+Junior Data Analyst (Masterschool DA & BI Track, April Cohort 2025)
