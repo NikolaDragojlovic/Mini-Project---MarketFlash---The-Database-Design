@@ -9,11 +9,12 @@ The goal was to design and build a robust Relational Database Management System 
 to provide clear visibility into business performance and support data-driven decision-making.
 
 ## Project Goals
-- Design relational database from worksheet data (1000 campaigns, 78 clients)
 - Clean & normalize data
 - Build ERD (Crow’s Foot)
+- Design relational database from worksheet data (1000 campaigns, 78 clients)
 - Implement database with keys, constraints, and sample data
 - Create Tableau dashboard for campaign performance 
+
 
 ## Technologies
 - **Database**: Beekeeper Studio + SQLite
